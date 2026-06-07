@@ -1,2 +1,13 @@
-# uas_probsta
-# uas_probsta
+# DOKUMENTASI TUTORIAL UJI HIPOTESIS DENGAN
+MENGGUNAKAN R-STUDIO
+
+### Uji Hipotesis bagi Rata-rata Satu Populasi – Ragam populasi diketahui (Uji Z)
+
+Mata Kuliah : Probabilitas dan Statistika
+Kelas : A
+Anggota Kelompok 7 :
+● AKBAR ARIDANI SETIAWAN (3337250148)
+● DZAKY AHMAD ALFANDI (3337250008)
+● FAIRUS RASIDIN (3337250152)
+● FIRDY RIDHO FILLAH (3337250018)
+● ROBBI MUNTAHA AMALI (3337250048)
